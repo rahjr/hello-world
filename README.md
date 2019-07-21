@@ -1,2 +1,3 @@
 # hello-world
 notes, ideas, etc... 
+Is coding the new modern art? Replacing cinema and rock music?
