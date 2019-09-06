@@ -1,3 +1,3 @@
 # hello-world
 notes, ideas, etc... 
-Is coding the new modern art? Replacing cinema and rock music?
+Is coding the new modern art, replacing cinema and rock music?
